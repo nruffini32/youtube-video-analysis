@@ -10,4 +10,4 @@ it does depend on viral status or high view count to determine the quality of th
 would have some limitations with the dataset and would need more metrics to fit an accurate model. For example, we knew that you
 can only like a video once where as you can watch the video multiple times. With that being said, another one of our goals was to be
 able to add features that are highly correlated to like_conversion_rate to the dataset that would help improve the overall
-accuracy of our model and assist in determining what is a good, nuetral, or bad video.
+accuracy of our model and assist in determining what is a good, neutral, or bad video.
