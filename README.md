@@ -1,6 +1,5 @@
 # Youtube Video Statistics Data Science Project
 This project is an exploration of Youtube Statistics using Machine Learning. 
-It goes through the data analysis process as a whole: initial EDA, data cleaning, feature engineering, and creating the ML model.
 
 ## About Dataset
 This dataset contains two files with statistics on 1,881 YouTube videos and their comments.
