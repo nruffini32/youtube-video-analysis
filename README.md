@@ -2,7 +2,7 @@
 This project is an exploration of Youtube Statistics using Machine Learning. 
 It goes through the data analysis process as a whole: initial EDA, data cleaning, feature engineering, and creating the ML model.
 
-### Purpose
+## Purpose
 The purpose of analyzing this dataset was to explore what makes a "good" video and see if we could predict whether a video
 performed well or poorly based on its video and comment statistics. A good video and a bad video were determined besed upon its
 like to view ratio ( like_conversion_rate ). We thought this would be the best way to determine the quality of the video because
